@@ -1,6 +1,6 @@
 
 
-Featured Writings
+Featured writings
 
 - **[Thought Process Behind the NEAR Protocol Dune Dashboard](https://muhraf.substack.com/p/thought-process-behind-creating-near)**  
   A deep dive into the research, design, and development of the NEAR Protocol dashboard on Dune.
