@@ -2,6 +2,9 @@
 
 Featured writings
 
+- **[Q2 2025: The State of Local Stablecoins (Non-USD) in Southeast Asia](https://muhraf.substack.com/p/q2-2025-the-state-of-local-stablecoins)**  
+  
+
 - **[Thought Process Behind the NEAR Protocol Dune Dashboard](https://muhraf.substack.com/p/thought-process-behind-creating-near)**  
   A deep dive into the research, design, and development of the NEAR Protocol dashboard on Dune.
 
